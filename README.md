@@ -1,0 +1,2 @@
+# AzureFunctions_Triggers
+AzureFunctions_Triggers
